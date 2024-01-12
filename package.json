@@ -4,16 +4,21 @@
   "private": true,
   "dependencies": {
     "@codemirror/view": "^0.19.42",
+    "@grammarly/editor-sdk-react": "^2.5.5",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "@uiw/react-codemirror": "^4.3.3",
+    "axios": "^1.6.5",
     "dictionary-en": "^3.1.0",
     "new-relic-language-linter": "^1.2.39",
+    "pdfjs-dist": "^4.0.379",
     "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-pdf": "^7.6.0",
     "react-scripts": "5.0.0",
+    "styled-components": "^6.1.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
